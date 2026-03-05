@@ -7,10 +7,10 @@ pkg install python -y
 pip install requests
 
 
-git clone https://github.com/sultanabdulaev206-ops/MPR1-2.git
+git clone https://github.com/xarizmacpm1/level.git
 
 
-cd MPR1-2
+cd level
 
 
 python level.py
